@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESINED Group",
-    "currentPage": "Home.html",
+    "currentPage": "Ventures.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -298,7 +298,7 @@
               "name": "device-data-usage",
               "family": "Material-Design-Icons",
               "active": true,
-              "link": "http://www.denisedegaetano",
+              "link": "http://www.denisedegaetano.com",
               "size": "53",
               "newWindow": true
             }
