@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESINED Group",
-    "currentPage": "Home.html",
+    "currentPage": "esinedgroup.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -23,7 +23,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "gdpr": "By continuing you agree to our <a href='Terms & Conditions.html'>Terms </a> and <a href='Privacy Policy.html'>Privacy Policies</a>.",
@@ -37,7 +37,7 @@
     "Contact Us.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -160,109 +160,10 @@
         }
       ]
     },
-    "Home.html": {
-      "settings": {
-        "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "contentAlign": "center",
-            "showArrow": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#bdb39a",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#264a54",
-            "overlayOpacity": 0.2
-          },
-          "title": "ESINED Group",
-          "text": "Group of Ventures<br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"Contact Us.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"Ventures.html\" data-toolbar=\"-mbrBtnMove\">Ventures</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-0",
-          "_styles": {
-            ".mbr-iconfont": {},
-            ".mbr-table-cell": {
-              "vertical-align": "middle"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showIcons": true,
-            "rows": "2",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "All Rights Reserved to <a href=\"Home.html#header4-0\">ESINED Group</a><br>",
-          "list1": "<a href=\"Terms &amp; Conditions.html\">Terms &amp; Conditions</a>",
-          "list2": "<a href=\"Privacy Policy.html\">Privacy Policy</a>",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Esined-Group-855970691430240/?modal=admin_todo_tour\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/19161402/admin/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-6",
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          }
-        }
-      ]
-    },
     "Ventures.html": {
       "settings": {
         "title": "Ventures",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -422,7 +323,7 @@
     "PrivacyPolicy.html": {
       "settings": {
         "title": "PrivacyPolicy",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -515,7 +416,7 @@
     "Terms&Conditions.html": {
       "settings": {
         "title": "Terms&Conditions",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -550,6 +451,105 @@
           ],
           "_name": "content2",
           "_anchor": "content2-b"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "2",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "All Rights Reserved to <a href=\"Home.html#header4-0\">ESINED Group</a><br>",
+          "list1": "<a href=\"Terms &amp; Conditions.html\">Terms &amp; Conditions</a>",
+          "list2": "<a href=\"Privacy Policy.html\">Privacy Policy</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/Esined-Group-855970691430240/?modal=admin_todo_tour\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/19161402/admin/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-6",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
+        }
+      ]
+    },
+    "esinedgroup.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "contentAlign": "center",
+            "showArrow": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/04.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#bdb39a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#264a54",
+            "overlayOpacity": 0.2
+          },
+          "title": "ESINED Group",
+          "text": "Group of Ventures<br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"Contact Us.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"Ventures.html\" data-toolbar=\"-mbrBtnMove\">Ventures</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-0",
+          "_styles": {
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
+            }
+          }
         },
         {
           "_params": {
