@@ -511,7 +511,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<link rel=\"canonical\" href=\"https://www.esinedgroup.com\">",
         "footer_custom": "",
         "html_before": ""
       },
