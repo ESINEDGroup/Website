@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ESINED Group",
-    "currentPage": "Home.html",
+    "currentPage": "Ventures.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -23,7 +23,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.1",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 16,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "gdpr": "By continuing you agree to our <a href='Terms & Conditions.html'>Terms </a> and <a href='Privacy Policy.html'>Privacy Policies</a>.",
@@ -267,105 +267,6 @@
       "components": [
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "showHeading": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "columns": 3,
-            "iconsBgColor": "@primaryColor",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fffffd",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#fffffd",
-            "overlayOpacity": 0.95
-          },
-          "title": "Always on your terms",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "device-data-usage",
-              "family": "Material-Design-Icons",
-              "active": true,
-              "link": "http://www.denisedegaetano.com",
-              "size": "53",
-              "newWindow": true
-            }
-          },
-          "title1": "Consulting",
-          "subtitle1": "Awesome",
-          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "doctor",
-              "family": "icon54-v4",
-              "active": true,
-              "link": "http://www.disease-intelligence.com",
-              "size": "53",
-              "newWindow": true
-            }
-          },
-          "title2": "Disease-Intelligence",
-          "subtitle2": "Awesome",
-          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont",
-              "linkInNewWindow": false,
-              "name": "user-database-connect",
-              "family": "icon54-v3",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": "53"
-            }
-          },
-          "title3": "Coming Soon .....",
-          "subtitle3": "Awesome",
-          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont",
-              "name": "hot-cup",
-              "link": "https://mobirise.com",
-              "size": 48,
-              "family": "MobiriseIcons"
-            }
-          },
-          "title4": "What is Mobirise",
-          "subtitle4": "Awesome",
-          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
-          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-2",
-          "_styles": {
-            ".mbr-iconfont": {
-              "color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          }
-        },
-        {
-          "_params": {
             "showIcons": true,
             "rows": "2",
             "listColor": "@infoColor",
@@ -415,6 +316,106 @@
               "color": "#fff"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "columns": 3,
+            "iconsBgColor": "@primaryColor",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          },
+          "title": "Always on your terms",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">GET STARTED</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "social-school",
+              "family": "Material-Design-Icons",
+              "active": true,
+              "link": "http://www.datasciencemalta.com",
+              "size": "53",
+              "newWindow": true
+            }
+          },
+          "title1": "Data Science Malta",
+          "subtitle1": "Awesome",
+          "text1": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "business-mens",
+              "family": "iconsMind",
+              "active": true,
+              "link": "http://www.europeanstartuphub.com",
+              "size": "53",
+              "newWindow": true
+            }
+          },
+          "title2": "European Startup Hub",
+          "subtitle2": "Awesome",
+          "text2": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button2": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont",
+              "linkInNewWindow": false,
+              "name": "circle-o-notch",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://www.denisedegaetano.com",
+              "size": "53",
+              "newWindow": true
+            }
+          },
+          "title3": "Consulting",
+          "subtitle3": "Awesome",
+          "text3": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button3": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont",
+              "name": "hot-cup",
+              "link": "https://mobirise.com",
+              "size": 48,
+              "family": "MobiriseIcons"
+            }
+          },
+          "title4": "What is Mobirise",
+          "subtitle4": "Awesome",
+          "text4": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.",
+          "button4": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "_anchor": "features6-f"
         }
       ]
     },

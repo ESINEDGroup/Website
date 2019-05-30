@@ -547,10 +547,6 @@ a:hover {
   background: #74a3c7;
   color: #fff;
 }
-#features6-2 .mbr-iconfont {
-  color: #5aac98;
-  border-color: #5aac98;
-}
 #footer2-6 .footer-list {
   color: #74a3c7;
 }
@@ -561,6 +557,10 @@ a:hover {
 #footer2-6 .btn-social:hover {
   background: #74a3c7;
   color: #fff;
+}
+#features6-f .mbr-iconfont {
+  color: #5aac98;
+  border-color: #5aac98;
 }
 #content3-9 .mbr-section-title,
 #content3-9 .mbr-section-subtitle {
