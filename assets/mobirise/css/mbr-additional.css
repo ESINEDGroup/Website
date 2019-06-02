@@ -515,20 +515,6 @@ a:hover {
 .hamburger-icon:after {
   background-color: #5aac98;
 }
-#form1-1 .form {
-  background: #fafbfc;
-}
-#footer2-6 .footer-list {
-  color: #74a3c7;
-}
-#footer2-6 .btn-social {
-  border-color: #74a3c7;
-  color: #74a3c7;
-}
-#footer2-6 .btn-social:hover {
-  background: #74a3c7;
-  color: #fff;
-}
 #footer2-6 .footer-list {
   color: #74a3c7;
 }
@@ -580,6 +566,20 @@ a:hover {
 }
 #header4-0 .mbr-table-cell {
   vertical-align: middle;
+}
+#footer2-6 .footer-list {
+  color: #74a3c7;
+}
+#footer2-6 .btn-social {
+  border-color: #74a3c7;
+  color: #74a3c7;
+}
+#footer2-6 .btn-social:hover {
+  background: #74a3c7;
+  color: #fff;
+}
+#form1-1 .form {
+  background: #fafbfc;
 }
 #footer2-6 .footer-list {
   color: #74a3c7;
